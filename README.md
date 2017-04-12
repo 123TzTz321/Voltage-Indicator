@@ -1,6 +1,6 @@
 # Voltage Indicator
 
-[AIL-Rules] (https://www.formulastudent.de/uploads/media/FS-Rules_2017_V1.1.pdf#subsubsection.4.3.4.9)
+[AIL-Rules](https://www.formulastudent.de/uploads/media/FS-Rules_2017_V1.1.pdf#subsubsection.4.3.4.9)
 
 ## Description
 
